@@ -10,7 +10,7 @@
   <img align="center" alt="S" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/storybook/storybook-original.svg">
 </div>
 
-## Tecnologias que utlizo 
+## Tecnologias que utilizo  ↙
 <div style="display: inline_block">
 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
