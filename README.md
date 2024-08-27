@@ -29,7 +29,3 @@
 <br>
 <br>
 
-<div align="center">
-  <a href="https://github.com/ViniciusC7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusC7&layout=compact&langs_count=7&theme=gotham"/>
-</div>
