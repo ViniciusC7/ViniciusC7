@@ -40,13 +40,8 @@ class Skills extends Developer {
 
 <br>
 
-  <p align="left">
-  <a href="#" title="viniciusbragacosta1998@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=viniciusbragacosta1998@gmail.com" alt="viniciusbragacosta1998@gmail.com"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-costa7/" alt="LinkedIn"/></a>
-  </p>
-
+[![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Costa-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vinicius-costa7/)](https://www.linkedin.com/in/vinicius-costa7/) 
+[![Gmail Badge](https://img.shields.io/badge/-oviniciusc@gmail.com-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:oviniciusc@gmail.com)](mailto:oviniciusc@gmail.com)
 
 <!--# Welcome to my GitHub profile!
   <div style="display: inline_block"><br>
@@ -85,6 +80,16 @@ class Skills extends Developer {
 
 <br>
 <br>
+
+
+
+  <p align="left">
+  <a href="#" title="viniciusbragacosta1998@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=viniciusbragacosta1998@gmail.com" alt="viniciusbragacosta1998@gmail.com"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-costa7/" alt="LinkedIn"/></a>
+  </p>
+
 
 <p align="left">
   <a href="#" title="viniciusbragacosta1998@gmail.com">
