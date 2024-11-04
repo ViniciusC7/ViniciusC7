@@ -15,7 +15,7 @@ class Skills extends Developer {
 }
 
 ```
-<p align="left">
+<!--<p align="left">
   <a href="#" title="viniciusbragacosta1998@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=viniciusbragacosta1998@gmail.com" alt="viniciusbragacosta1998@gmail.com"/></a>
   <a href="#" title="LinkedIn">
