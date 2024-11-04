@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="7164f8380473ca939305b57388d45061.jpg" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
  <div style="display: inline_block"><br>
   <img align="center" alt="V" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vagrant/vagrant-original.svg">
