@@ -39,7 +39,7 @@ class Skills extends Developer {
 <br>
 [![Gmail Badge](https://img.shields.io/badge/-viniciusbragacosta1998@gmail.com-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:viniciusbragacosta1998@gmail.com)](mailto:viniciusbragacosta1998@gmail.com)
 
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Costa-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vinicius-costa7/)](https://www.linkedin.com/in/vinicius-costa7/) 
+ [![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Costa-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vinicius-costa7/)](https://www.linkedin.com/in/vinicius-costa7/) 
 
 
 
