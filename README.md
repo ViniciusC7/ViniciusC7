@@ -1,8 +1,6 @@
 **Estudante Back-end** <br>
 [<img src="https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=white">](mailto:viniciusbragacosta1998@gmail.com)<br>
-<img align="center" alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-
-
+<img align="center" alt="Csharp" height="40" width="40" src="https://github.com/user-attachments/assets/d1191fd7-74ed-4093-bfb8-23044a569cde">
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ViniciusC7&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ViniciusC7&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ViniciusC7&theme=nord_dark) |
 | :-: | :-: | :-: |
