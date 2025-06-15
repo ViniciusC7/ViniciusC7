@@ -1,5 +1,5 @@
 Estudante Back-end <br>
-[![Gmail Badge](https://img.shields.io/badge/-GMAIL-ff0007?style=flat-square&logo=Gmail&logoColor=000000&link=mailto:viniciusbragacosta1998@gmail.com)](mailto:viniciusbragacosta1998@gmail.com) <br>
+[<img src="https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=white">](mailto:viniciusbragacosta1998@gmail.com)<br>
 <img align="center" alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png">
 
