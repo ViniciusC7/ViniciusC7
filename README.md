@@ -1,4 +1,4 @@
-**Estudante Back-end** <br>
+
 
 [<img src="https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=white">](mailto:viniciusbragacosta1998@gmail.com) <br>
 <img align="center" alt="Csharp" height="40" width="40" src="https://github.com/user-attachments/assets/ca408967-cbbb-4043-b2ab-c8cd8815e6f8">
